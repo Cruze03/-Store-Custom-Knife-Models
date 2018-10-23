@@ -1,0 +1,7 @@
+﻿"Phrases"
+{
+	"CustomModel" 
+    { 
+		"en" "Custom Weapon Model" 
+    }
+}

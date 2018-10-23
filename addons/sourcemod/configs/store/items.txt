@@ -1,0 +1,74 @@
+"Store"
+{
+	"Custom Knife Models"
+	{
+		"Abyss Greatsword" 
+		{ 
+            "model"       "models/weapons/ventoz/Abyss_Greatsword/v_abyss_greatsword.mdl"
+            "worldmodel"  "models/weapons/ventoz/Abyss_Greatsword/w_abyss_greatsword.mdl"
+			"entity"      "weapon_knife" 
+            "price"       "2000" 
+            "type"        "CustomModel"  
+            "slot"        "0"
+		}
+	   "Screwdriver Knife" 
+		{ 
+            "model"       "models/weapons/caleon1/screwdriver/v_knife_screwdriver.mdl" 
+            "worldmodel"  "models/weapons/caleon1/screwdriver/w_knife_screwdriver.mdl"
+			"entity"      "weapon_knife" 
+            "price"       "2000" 
+            "type"        "CustomModel"  
+            "slot"        "0"
+		}
+	   "Banana Knife" 
+		{ 
+            "model"       "models/weapons/eminem/karam_banana/v_knife_karam2.mdl"
+			"entity"      "weapon_knife" 
+            "price"       "4000" 
+            "type"        "CustomModel"  
+            "slot"        "0"
+		}
+		"Volcano Fragments"
+		{
+            "model"       "models/weapons/eminem/sharpened_volcano_fragment/v_sharpened_volcano_fragment.mdl"
+			"worldmodel"  "models/weapons/eminem/sharpened_volcano_fragment/w_sharpened_volcano_fragment.mdl"
+			"dropmodel"	  "models/weapons/eminem/sharpened_volcano_fragment/w_sharpened_volcano_fragment_dropped.mdl"
+			"entity"      "weapon_knife" 
+            "price"       "4000" 
+            "type"        "CustomModel"  
+            "slot"        "0"
+		}
+		"Balrog Poison"
+		{
+            "model"       "models/weapons/eminem/balrog9/v_balrog9_poison.mdl"
+			"entity"      "weapon_knife" 
+            "price"       "4000" 
+            "type"        "CustomModel"  
+            "slot"        "0"
+		}
+		"Balrog Red"
+		{
+            "model"       "models/weapons/eminem/balrog9/v_balrog9_red.mdl"
+			"entity"      "weapon_knife" 
+            "price"       "4000" 
+            "type"        "CustomModel"  
+            "slot"        "0"
+		}
+		"Balrog Blue"
+		{
+            "model"       "models/weapons/eminem/balrog9/v_balrog9_blue.mdl"
+			"entity"      "weapon_knife" 
+            "price"       "4000" 
+            "type"        "CustomModel"  
+            "slot"        "0"
+		}
+		"Balrog World Championship"
+		{
+            "model"       "models/weapons/eminem/balrog9/v_balrog9_world_championship.mdl"
+			"entity"      "weapon_knife" 
+            "price"       "4000" 
+            "type"        "CustomModel"  
+            "slot"        "0"
+		}
+	}
+}
